@@ -22,6 +22,6 @@ public:
     }
     TreeNode* invertTree(TreeNode* root) {
         fun(root);
-        return root
+        return root;
     }
 };
