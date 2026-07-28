@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Unnati1203/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Unnati1203/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Unnati1203/leetcode/tree/master/0389-find-the-difference) |
+| [0771-jewels-and-stones](https://github.com/Unnati1203/leetcode/tree/master/0771-jewels-and-stones) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Unnati1203/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Unnati1203/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Unnati1203/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Unnati1203/leetcode/tree/master/0389-find-the-difference) |
+| [0771-jewels-and-stones](https://github.com/Unnati1203/leetcode/tree/master/0771-jewels-and-stones) |
 ## Queue
 |  |
 | ------- |
