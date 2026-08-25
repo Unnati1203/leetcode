@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Unnati1203/leetcode/tree/master/0048-rotate-image) |
 | [0347-top-k-frequent-elements](https://github.com/Unnati1203/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Unnati1203/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Unnati1203/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Sorting
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Unnati1203/leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Unnati1203/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Unnati1203/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Unnati1203/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Unnati1203/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Unnati1203/leetcode/tree/master/0394-decode-string) |
+## Greedy
+|  |
+| ------- |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Unnati1203/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 <!---LeetCode Topics End-->
