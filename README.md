@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Unnati1203/leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Unnati1203/leetcode/tree/master/0048-rotate-image) |
 ## Matrix
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Unnati1203/leetcode/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/Unnati1203/leetcode/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/Unnati1203/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Unnati1203/leetcode/tree/master/0383-ransom-note) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Unnati1203/leetcode/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/Unnati1203/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Unnati1203/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Unnati1203/leetcode/tree/master/0383-ransom-note) |
