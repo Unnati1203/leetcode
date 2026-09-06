@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Unnati1203/leetcode/tree/master/0048-rotate-image) |
+| [0198-house-robber](https://github.com/Unnati1203/leetcode/tree/master/0198-house-robber) |
 | [0347-top-k-frequent-elements](https://github.com/Unnati1203/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Unnati1203/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Unnati1203/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Unnati1203/leetcode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Unnati1203/leetcode/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |
