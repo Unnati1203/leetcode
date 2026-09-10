@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Unnati1203/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/Unnati1203/leetcode/tree/master/0771-jewels-and-stones) |
 | [0899-orderly-queue](https://github.com/Unnati1203/leetcode/tree/master/0899-orderly-queue) |
+| [1544-make-the-string-great](https://github.com/Unnati1203/leetcode/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Unnati1203/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Unnati1203/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Unnati1203/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Unnati1203/leetcode/tree/master/0394-decode-string) |
+| [1544-make-the-string-great](https://github.com/Unnati1203/leetcode/tree/master/1544-make-the-string-great) |
 ## Recursion
 |  |
 | ------- |
