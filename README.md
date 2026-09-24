@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Unnati1203/leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Unnati1203/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Unnati1203/leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Unnati1203/leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Unnati1203/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Unnati1203/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Unnati1203/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Unnati1203/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Unnati1203/leetcode/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/Unnati1203/leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Unnati1203/leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Unnati1203/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Unnati1203/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Unnati1203/leetcode/tree/master/0387-first-unique-character-in-a-string) |
