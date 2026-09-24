@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Unnati1203/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Unnati1203/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Unnati1203/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Unnati1203/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Unnati1203/leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Unnati1203/leetcode/tree/master/0070-climbing-stairs) |
 | [0899-orderly-queue](https://github.com/Unnati1203/leetcode/tree/master/0899-orderly-queue) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Unnati1203/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
 |  |
 | ------- |
