@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Unnati1203/leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Unnati1203/leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Unnati1203/leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Unnati1203/leetcode/tree/master/0231-power-of-two) |
 | [0899-orderly-queue](https://github.com/Unnati1203/leetcode/tree/master/0899-orderly-queue) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Unnati1203/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Unnati1203/leetcode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Unnati1203/leetcode/tree/master/0389-find-the-difference) |
 ## Bucket Sort
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Unnati1203/leetcode/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/Unnati1203/leetcode/tree/master/0394-decode-string) |
 ## Greedy
 |  |
