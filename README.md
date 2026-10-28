@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/Unnati1203/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Unnati1203/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Unnati1203/leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2351-first-letter-to-appear-twice](https://github.com/Unnati1203/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Unnati1203/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/Unnati1203/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Unnati1203/leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Unnati1203/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2351-first-letter-to-appear-twice](https://github.com/Unnati1203/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Unnati1203/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Unnati1203/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Unnati1203/leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Unnati1203/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2351-first-letter-to-appear-twice](https://github.com/Unnati1203/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Queue
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Unnati1203/leetcode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Unnati1203/leetcode/tree/master/0389-find-the-difference) |
+| [2351-first-letter-to-appear-twice](https://github.com/Unnati1203/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Bucket Sort
 |  |
 | ------- |
