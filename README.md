@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Unnati1203/leetcode/tree/master/0048-rotate-image) |
 | [0198-house-robber](https://github.com/Unnati1203/leetcode/tree/master/0198-house-robber) |
 | [0347-top-k-frequent-elements](https://github.com/Unnati1203/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Unnati1203/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Unnati1203/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Unnati1203/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Unnati1203/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Unnati1203/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Unnati1203/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Unnati1203/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Unnati1203/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Unnati1203/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Unnati1203/leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Unnati1203/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Unnati1203/leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Unnati1203/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/Unnati1203/leetcode/tree/master/0771-jewels-and-stones) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Unnati1203/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Unnati1203/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Unnati1203/leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Unnati1203/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
