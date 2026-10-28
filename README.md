@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Unnati1203/leetcode/tree/master/0198-house-robber) |
 | [0347-top-k-frequent-elements](https://github.com/Unnati1203/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1207-unique-number-of-occurrences](https://github.com/Unnati1203/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Unnati1203/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Unnati1203/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Unnati1203/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Unnati1203/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Unnati1203/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/Unnati1203/leetcode/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/Unnati1203/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Unnati1203/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Unnati1203/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Unnati1203/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Unnati1203/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Unnati1203/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Unnati1203/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Two Pointers
 |  |
