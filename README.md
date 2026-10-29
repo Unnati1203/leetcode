@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Unnati1203/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Unnati1203/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Unnati1203/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/Unnati1203/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Unnati1203/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/Unnati1203/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Unnati1203/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Unnati1203/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Unnati1203/leetcode/tree/master/0231-power-of-two) |
 | [0899-orderly-queue](https://github.com/Unnati1203/leetcode/tree/master/0899-orderly-queue) |
+| [1512-number-of-good-pairs](https://github.com/Unnati1203/leetcode/tree/master/1512-number-of-good-pairs) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Unnati1203/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Unnati1203/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Unnati1203/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Unnati1203/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/Unnati1203/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Unnati1203/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/Unnati1203/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Unnati1203/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Unnati1203/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Unnati1203/leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Unnati1203/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/Unnati1203/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Unnati1203/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Unnati1203/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Unnati1203/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
